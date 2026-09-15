@@ -1,4 +1,8 @@
 {
+  "sci:publications": [
+    {"doi": "10.85276/31dx-at11"}
+  ],
+  "sci:doi": "10.85276/4sz1-mx50",
   "type": "Collection",
   "id": "firn-retention",
   "stac_version": "1.0.0",
@@ -53,7 +57,8 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
     "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
-    "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
+    "https://stac-extensions.github.io/cf/v0.2.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "osc:project": "4d-greenland",
   "osc:status": "completed",

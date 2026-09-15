@@ -1,4 +1,8 @@
 {
+  "sci:publications": [
+    {"doi": "10.85276/ebz3-ew35"}
+  ],
+  "sci:doi": "10.85276/7aa4-3b16",
   "type": "Collection",
   "id": "satellite-sarin-altimeter-coastal-cp4o",
   "stac_version": "1.0.0",
@@ -65,7 +69,8 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
     "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
-    "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
+    "https://stac-extensions.github.io/cf/v0.2.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "osc:project": "cryosat-plus-for-oceans-cp4o",
   "osc:status": "ongoing",
