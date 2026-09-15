@@ -1,4 +1,8 @@
 {
+  "sci:publications": [
+    {"doi": "10.85276/np20-0q61"}
+  ],
+  "sci:doi": "10.85276/epsn-0r87",
   "type": "Collection",
   "id": "earth-energy-imballance-baltic-seal",
   "stac_version": "1.0.0",
@@ -60,7 +64,8 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
     "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
-    "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
+    "https://stac-extensions.github.io/cf/v0.2.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "osc:project": "baltic-seal-sea-level",
   "osc:status": "ongoing",

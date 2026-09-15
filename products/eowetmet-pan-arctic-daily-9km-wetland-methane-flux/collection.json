@@ -1,4 +1,8 @@
 {
+  "sci:publications": [
+    {"doi": "10.5281/zenodo.20545657"}
+  ,
+    {"doi": "10.85276/wkav-mx97"}],
   "type": "Collection",
   "id": "eowetmet-pan-arctic-daily-9km-wetland-methane-flux",
   "stac_version": "1.0.0",
@@ -78,7 +82,7 @@
       ]
     }
   ],
-  "sci:doi": "10.5281/zenodo.20545657",
+  "sci:doi": "10.85276/a8ff-ct74",
   "cf:parameter": [
     {
       "name": "methane"

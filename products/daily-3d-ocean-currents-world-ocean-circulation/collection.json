@@ -1,4 +1,8 @@
 {
+  "sci:publications": [
+    {"doi": "10.85276/t9q9-1168"}
+  ],
+  "sci:doi": "10.85276/d6gm-n817",
   "type": "Collection",
   "id": "daily-3d-ocean-currents-world-ocean-circulation",
   "stac_version": "1.0.0",
@@ -53,7 +57,8 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
     "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
-    "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
+    "https://stac-extensions.github.io/cf/v0.2.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "osc:project": "world-ocean-circulation",
   "osc:status": "planned",

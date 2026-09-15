@@ -1,4 +1,8 @@
 {
+  "sci:publications": [
+    {"doi": "10.85276/5zan-5k51"}
+  ],
+  "sci:doi": "10.85276/kd1e-8c64",
   "type": "Collection",
   "id": "hydrology-4D",
   "stac_version": "1.0.0",
@@ -82,7 +86,8 @@
   "stac_extensions": [
     "https://stac-extensions.github.io/osc/v1.0.0/schema.json",
     "https://stac-extensions.github.io/themes/v1.0.0/schema.json",
-    "https://stac-extensions.github.io/cf/v0.2.0/schema.json"
+    "https://stac-extensions.github.io/cf/v0.2.0/schema.json",
+    "https://stac-extensions.github.io/scientific/v1.0.0/schema.json"
   ],
   "osc:project": "deep-earth-system-data-lab",
   "osc:status": "ongoing",
